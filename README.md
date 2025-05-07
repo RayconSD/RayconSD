@@ -1,6 +1,6 @@
 ## U_Jeff~
 
-Game DEveloper amador
+Game Developer amador
 Focado em programação, game design  e pixel art.
 
 <div>
