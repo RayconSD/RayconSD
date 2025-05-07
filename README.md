@@ -1,7 +1,7 @@
 ## U_Jeff~
 
 Game DEveloper amador
-Focado em programação, game design  e animação.
+Focado em programação, game design  e pixel art.
 
 <div>
   <a href="https://www.instagram.com/jeff_o_mago/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
